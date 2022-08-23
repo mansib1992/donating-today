@@ -1,0 +1,204 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.header {
+    background-image: url(./images/donation4.jpg);
+    text-align: center;
+    color: white;
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.color {
+    color: black;
+}
+
+.header h1 {
+    font-size: 50px;
+    padding-top: 90px;
+    padding-bottom: 10px;
+}
+
+.header p {
+    padding-bottom: 90px;
+    font-size: 20px;
+}
+
+.button {
+    background-color: orangered;
+    padding: 12px 40px;
+    text-decoration: none;
+    border-radius: 5px;
+    color: white;
+}
+
+.donate {
+    margin-top: 90px;
+    text-align: center;
+}
+
+.donate-plan {
+    text-align: center;
+    margin-top: 90px;
+}
+
+.donate-card {
+    display: flex;
+    padding: 50px;
+}
+
+.donate h1 {
+    font-size: 45px;
+    padding-bottom: 20px;
+}
+
+.donate-plan h2 {
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+
+.donate p {
+    padding-bottom: 20px;
+}
+
+.amount {
+    display: flex;
+    margin: 50px;
+    padding-left: 350px;
+}
+
+.bg {
+    border: 1px solid rgb(255, 255, 255);
+    padding: 20px 30px;
+    background-color: rgba(202, 194, 184, 0.275);
+}
+
+.bg1 {
+    border: 2px solid orangered;
+    padding: 20px 30px;
+    color: orangered;
+    background-color: rgba(236, 167, 148, 0.275);
+    border-radius: 3px;
+}
+
+#donation {
+    padding-bottom: 15px;
+    padding-top: 15px;
+    padding-left: 400px;
+    padding-right: 350px;
+    border-top: hidden;
+    border-right: hidden;
+    border-left: hidden;
+}
+
+#input {
+    margin-bottom: 40px;
+}
+
+.card {
+    background-color: antiquewhite;
+    margin: 10px;
+    padding-bottom: 50px;
+}
+
+.description-area {
+    display: flex;
+}
+
+.half-width {
+    width: 50%;
+}
+
+.half-width h3 {
+    padding-left: 200px;
+    font-size: 35px;
+}
+
+.bg-color1 {
+    background-color: rgba(127, 255, 212, 0.23);
+}
+
+.bg-color2 {
+    background-color: rgba(137, 43, 226, 0.06);
+}
+
+.icon {
+    height: 45px;
+    padding: 20px;
+    padding-top: 40px;
+}
+
+.card-title {
+    font-size: 30px;
+    padding-left: 15px;
+}
+
+.card-discription {
+    padding: 15px;
+}
+
+.flood-img {
+    display: flex;
+    padding: 30px 0px 30px 150px;
+}
+
+.description-area h3 {
+    padding-top: 20px;
+}
+
+.size {
+    height: 180px;
+    width: 250px;
+    padding: 10px;
+}
+
+.get-update {
+    text-align: center;
+}
+
+.get-update h2 {
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+
+.input-subscribe {
+    background-color: rgba(229, 176, 158, 0.427);
+    padding: 40px;
+    margin: 50px 350px;
+    border-radius: 5px;
+}
+
+.email-input {
+    padding: 7px;
+    border: hidden;
+    background-color: rgba(0, 0, 0, 0.136);
+}
+
+.subscribe-btn {
+    padding: 8px 20px;
+    background-color: orangered;
+    color: white;
+    border: hidden;
+    border-radius: 3px;
+    margin-left: -4px;
+}
+
+footer {
+    text-align: center;
+    background-color: rgb(22, 16, 28);
+    color: brown;
+    padding: 40px;
+}
+
+footer p {
+    color: white;
+    font-style: normal;
+}
+
+footer h1 {
+    font-style: normal;
+}
